@@ -97,17 +97,15 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** Tidyverse 
 
 ## Education
-University of Colorado, Boulder: 
-Master of Science - MS, Data Science,
-Dec 2022 - Dec 2024
+University of Technology Sydney | UTS, Sydney, Australia
+Master of Information Technology 
+Major Data Analytics
+February 2024 - June 2026
 
-The University of the West Indies, Mona:
-Bachelor's degree, Biochemistry and Molecular Biology,
-2019 - 2022
+University of Asia Pacific | UAP, Dhaka, Bangladesh
+Bachelor of Computer Science and Engineering,
+2016 - 2020
 
-Pre University School:
-Associate's degree, Science and Mathematics,
-2017 - 2019
 
 ## Certificates
 The best way to showcase skills is by doing and sharing your job done but sometimes certificates appear to be as an indirect result. Here's a list of the ones I have (in reverse-chronological order, with the date of completion in brackets):
